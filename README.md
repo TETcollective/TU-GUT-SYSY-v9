@@ -12,3 +12,7 @@ Key results
 - Topological neuromorphic net: 99.34% MNIST @ 41% noise
 
 DOI (coming in 5 min): will be https://doi.org/10.5281/zenodo.xxxxxxxx
+
+
+- **TU-GUT-SYSY v9** – Correzioni finali, Borexino 2025, anelli borromei e intelligenza artificiale neuromorfica topologica  
+  [DOI: 10.5281/zenodo.17857154](https://doi.org/10.5281/zenodo.17857154) – Codice: [GitHub](https://github.com/TETcollective/TU-GUT-SYSY-v9) – 50/50 Human–AI
