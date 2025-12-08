@@ -1,0 +1,7 @@
+qutip==4.7.3
+torch==2.4.0
+torchvision
+matplotlib
+numpy
+jupyter
+tqdm
