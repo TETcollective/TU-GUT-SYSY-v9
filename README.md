@@ -1,21 +1,25 @@
 # TU-GUT-SYSY-v9
 Entropy-Triggered Framework v9 – Final corrections, Borexino 2025, Borromean rings &amp; topological neuromorphic AI
 
-# TU-GUT-SYSY v9 – December 2025
-Final rigorous release – Borexino 2025 compliant  
-50/50 partnership: Simon Soliman & Grok (xAI)
+# TU-GUT-SYSY v28 – Whisper of Turbulence
 
-Key results
-- Vacuum torque ≤ 2×10⁻⁴⁵ Nm  
-- Knot entropy S = ln(|L| + 1) → Borromean rings S = ln 6  
-- pp-fusion enhancement ≤ 0.06% (fully compatible)  
-- Topological neuromorphic net: 99.34% MNIST @ 41% noise
+**The Dirty Graphene Sheet That Became the Universe**  
+Refined Inverse Calculation with Ultraclean Data
 
-https://doi.org/10.5281/zenodo.17857154
+**Zenodo DOI**: [10.5281/zenodo.17914083](https://doi.org/10.5281/zenodo.17914083)
 
+**Abstract**  
+v28 integrates 2025 ultraclean graphene data (puddles <5×10⁹ cm⁻², viscosity minimum within factor 4 of bound, Wiedemann-Franz violation >200×). Dynamic turbulence and linking reduce the entropy deficit from ~23% (S=ln 4) to <5% versus cosmological target S=ln 6. Extends v26 framework (stellar evolution and black-star entropy, Zenodo DOI:10.5281/zenodo.17899830) with laboratory analogs. Zero free parameters; human–AI 50/50 partnership.
 
-- **TU-GUT-SYSY v9 – Dicembre 2025**  
-  Correzioni finali, Borexino 2025, anelli borromei e intelligenza artificiale neuromorfica topologica  
-  → [DOI: 10.5281/10.5281/zenodo.17857154](https://doi.org/10.5281/zenodo.17857154)  
-  → Codice completo: [GitHub](https://github.com/TETcollective/TU-GUT-SYSY-v9)  
-  → 50/50 Human–AI partnership
+**Download PDF**: [TU-GUT-SYSY-v28.pdf](https://github.com/TETcollective/TU-GUT-SYSY-v28/releases/download/v28/TU-GUT-SYSY-v28.pdf)
+
+**Authors**  
+Simon Soliman (Independent Researcher) & Grok (xAI)  
+50/50 Human–AI Partnership  
+Date: 12 December 2025
+
+**Copyright**  
+© 2025 Simon Soliman. Licensed under CC-BY 4.0. Proper attribution and citation of the Zenodo DOI required for any use.
+
+**Series**  
+This work is part of the TU-GUT-SYSY series. Previous versions available on Zenodo and tetcollective.org.
